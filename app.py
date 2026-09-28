@@ -6,7 +6,7 @@ app = Flask(__name__)
 def home():
     return """
     <h1>Joshua Krupa</h1>
-    <h2>UVU Student ID: YOUR_STUDENT_ID</h2>
+    <h2>UVU Student ID: 11071973</h2>
     <p>Welcome to my Web in a Box application!</p>
     """
 
